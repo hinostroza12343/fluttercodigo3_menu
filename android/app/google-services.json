@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162302403134",
+    "project_id": "codigomenuapp",
+    "storage_bucket": "codigomenuapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162302403134:android:30a0894598b6345923676f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_altoquepez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162302403134-1q5i7nqfac1fh573futs4qqqjlidmdaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcjXBOEsZxLQT0S1oq-gfLaMygxLeMuEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162302403134-1q5i7nqfac1fh573futs4qqqjlidmdaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
