@@ -15,7 +15,7 @@ class ProductDetailPage extends StatelessWidget {
             fontWeight: FontWeight.bold,
           ),
         ),
-        backgroundColor: Colors.transparent,
+        backgroundColor: Colors.red,
         elevation: 0,
       ),
       floatingActionButton: FloatingActionButton(
